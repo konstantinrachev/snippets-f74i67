@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://konstantinrachev.github.io/snippets-f74i67/sitemap.xml
